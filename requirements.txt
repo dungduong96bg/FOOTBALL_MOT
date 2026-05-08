@@ -5,3 +5,4 @@ pandas==2.2.2
 ultralytics==8.2.18
 psutil==5.9.8
 pillow==10.4.0
+cv2
