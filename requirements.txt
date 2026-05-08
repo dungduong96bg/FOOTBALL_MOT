@@ -4,3 +4,4 @@ numpy
 pandas
 ultralytics
 psutil
+cv2
